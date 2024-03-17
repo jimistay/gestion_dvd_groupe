@@ -1,0 +1,19 @@
+﻿<Page x:Class="Location_DVD.DVDHomeView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Location_DVD"
+      mc:Ignorable="d" 
+      d:DesignHeight="314.384" d:DesignWidth="597.808"
+      Title="DVDHomeView">
+
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="314" Margin="0,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="594" Fill="#FFFCEC5B"/>
+        <Image HorizontalAlignment="Left" Height="304" Margin="211,13,0,0" VerticalAlignment="Top" Width="387" Source="gestionDVDimg.png"/>
+        <Label Content="Envie de partager les meilleurs moments avec vos amis?" HorizontalAlignment="Left" Margin="39,108,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" FontStyle="Italic" Foreground="White" Height="49" Width="578"/>
+        <Label Content="-Decouvre notre selection des meilleurs films" HorizontalAlignment="Left" Margin="93,139,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" FontStyle="Italic" Foreground="White" Height="49" Width="430"/>
+
+
+    </Grid>
+</Page>

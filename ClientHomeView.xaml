@@ -1,0 +1,18 @@
+﻿<Page x:Class="Location_DVD.ClientHomeView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Location_DVD"
+      mc:Ignorable="d" 
+      d:DesignHeight="330" d:DesignWidth="650"
+      Title="retour">
+
+    <Grid Background="#FFFCEC5B" Width="650" Height="330">
+        <Image Margin="0,1,0,-95" Source="/fond.png" Stretch="Fill"/>
+
+        <Label Grid.Column="1" Grid.Row="1" Content="Envie d'écouter votre musique préférée en boucle ?" FontSize="22" Margin="41,78,40,198" Foreground="White" FontWeight="UltraLight" FontFamily="Segoe UI Black"/>
+        <Label Grid.Column="1" Grid.Row="1" Content="-Reservez dès maintenant votrre DVD favoris " FontSize="22" Margin="72,114,51,162" Foreground="White" FontFamily="Segoe UI Black" FontWeight="UltraLight"/>
+
+    </Grid>
+</Page>

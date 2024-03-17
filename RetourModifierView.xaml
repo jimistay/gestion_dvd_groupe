@@ -1,0 +1,25 @@
+﻿<Page x:Class="Location_DVD.RetourModifierView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Location_DVD"
+      mc:Ignorable="d" 
+      d:DesignHeight="314.384" d:DesignWidth="597.808"
+      Title="RetourModifierView">
+
+    <Grid>
+        <Rectangle HorizontalAlignment="Center" Height="314" Stroke="#FFFCEC5B" VerticalAlignment="Top" Width="597" Fill="#FFFCEC5B" RadiusX="0" RadiusY="0" Margin="0,10,0,0"/>
+        <Image HorizontalAlignment="Left" Height="304" Margin="103,10,0,0" VerticalAlignment="Top" Width="672" Source="/retour_bg.png"/>
+
+        <ListView x:Name="RetourListView" Margin="0,43,0,47" ItemsSource="{Binding RetourList}" HorizontalAlignment="Center" Width="390" Background="#82FCEC5B" BorderBrush="Black" Foreground="Black" MouseDoubleClick="MouseDoubleclick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Retour ID" DisplayMemberBinding="{Binding RetourId}" Width="116"/>
+                    <GridViewColumn Header="N° Location" DisplayMemberBinding="{Binding LaLocation}" Width="116" />
+                    <GridViewColumn Header="Date de retour" DisplayMemberBinding="{Binding DateReturned}" Width="116" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Page>

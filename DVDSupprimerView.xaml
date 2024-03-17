@@ -1,0 +1,31 @@
+﻿<Page x:Class="Location_DVD.DVDSupprimerView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Location_DVD"
+      mc:Ignorable="d" 
+      d:DesignHeight="314.384" d:DesignWidth="597.808"
+      Title="DVDSupprimerView">
+
+    <Grid>
+        <Rectangle HorizontalAlignment="Center" Height="314" Stroke="Black" VerticalAlignment="Center" Width="598" Fill="#FCEC5B"/>
+        <Image HorizontalAlignment="Left" Height="315" Margin="194,0,0,0" VerticalAlignment="Center" Width="414" Source="gestionDVDimg.png"/>
+        <Label Content="Selectionner un DVD" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" FontSize="18"/>
+
+
+
+        <ListView Margin="0,44,0,70" x:Name="DVDListView" ItemsSource="{Binding DVDList}" HorizontalAlignment="Center" Width="504" Background="#82FCEC5B" BorderBrush="Black" Foreground="Black" MouseDoubleClick="DVDListView_MouseDoubleclick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding DVDId}" />
+                    <GridViewColumn Header="Title" DisplayMemberBinding="{Binding Title}" />
+                    <GridViewColumn Header="Director" DisplayMemberBinding="{Binding Director}" />
+                    <GridViewColumn Header="Genre" DisplayMemberBinding="{Binding Genre}" />
+                    <GridViewColumn Header="ReleaseYear" DisplayMemberBinding="{Binding ReleaseYear}" />
+                    <GridViewColumn Header="IsAvailable" DisplayMemberBinding="{Binding IsAvailable}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Page>

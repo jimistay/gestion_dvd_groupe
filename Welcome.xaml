@@ -1,0 +1,55 @@
+﻿<Window x:Class="Location_DVD.Welcome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Location_DVD"
+        mc:Ignorable="d"
+        Title="Location_DVD" Icon="/Icon.ico" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid Background="#FCEC5B">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="203"></ColumnDefinition>
+            <ColumnDefinition Width="586*"></ColumnDefinition>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Rectangle Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" Fill="#0F0E34"/>
+        <Image HorizontalAlignment="Center" Height="214" Margin="0,10,0,0" VerticalAlignment="Top" Width="214" Source="/CD.png" Grid.RowSpan="2"/>
+
+        <Label Grid.Column="1" Content="Bienvenue dans le menu" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" RenderTransformOrigin="0.603,0.591" Foreground="White" FontStyle="Italic" FontWeight="Bold" Height="64" Width="464"/>
+        <StackPanel Grid.Column="0" Grid.Row="1" Background="#000000">
+
+            <Button Content="Gestion des clients" Width="auto" Height="38" Margin="0,10,0,10" Background="#A3EBFB" FontSize="15" FontWeight="Bold" Click="Button_Click"/>
+            <Button Content="Gestion des DVD"  Width="auto" Height="38" Margin="0,2,0,10" Background="#A3EBFB" FontSize="15" FontWeight="Bold" Click="Button_Click_1"/>
+            <Button Content="Gestion des locations"  Width="auto" Height="38" Margin="0,2,0,10" Background="#A3EBFB" FontSize="14" FontWeight="Bold" Click="Button_Click_2"/>
+            <Button Content="Gestions des retours"  Width="auto" Height="38" Margin="0,2,0,10" Background="#A3EBFB" FontSize="15" FontWeight="Bold" Click="Button_Click_3"/>
+            <Button Content="Statistique"  Width="auto" Height="38" Margin="0,2,0,10" Background="#A3EBFB" FontSize="15" FontWeight="Bold"/>
+            <Button Content="Se déconnecter"  Width="auto" Height="25" Margin="0,2,0,10" Background="#FFFF6948" FontSize="15" Foreground="White" Click="Button_Click_4"/>
+        </StackPanel>
+
+        <Label Grid.Column="1" Grid.Row="1" Content="Selectionnez l'action que vous souhaitiez réaliser :" FontWeight="Bold"/>
+
+        <Label Grid.Column="1" Grid.Row="1" Content="-La gestion des clients vous permettra d'ajouter, de modifier ou supprimer un client ainsi que visualiser l'ensemble" Margin="10,20,20,241"/>
+        <Label  Grid.Column="1" Grid.Row="1" Content="de nos clients." Margin="11,40,19,217"/>
+
+        <Label  Grid.Column="1" Grid.Row="1" Content="-La gestions des DVD vous permettra d'ajouter un nouveau DVD; de modifier, supprimer ou visualiser des DVD" Margin="10,60,20,181" RenderTransformOrigin="0.497,2.332"/>
+        <Label  Grid.Column="1" Grid.Row="1" Content="que nous disposons dans le stock." Margin="10,76,18,158" RenderTransformOrigin="0.497,2.332"/>
+
+        <Label  Grid.Column="1" Grid.Row="1" Content="-La gestion des locations a pour objectif d'ajouter une nouvelle location et de modifier ou supprimer et afficher" Margin="10,100,20,121" RenderTransformOrigin="0.497,2.332"/>
+        <Label  Grid.Column="1" Grid.Row="1" Content="les locations en cours." Margin="10,115,18,98" RenderTransformOrigin="0.497,2.332"/>
+
+        <Label  Grid.Column="1" Grid.Row="1" Content="-La gestion des retours vous offre la possibilité d'enregistrer un retour et de calculer les frais de retard." Margin="10,135,20,58" RenderTransformOrigin="0.497,2.332"/>
+
+
+        <Label  Grid.Column="1" Grid.Row="1" Content="-Vous pouvez egalement consulter dans la rubrique statistique les différents chiffres clés." Margin="10,155,20,18" RenderTransformOrigin="0.497,2.332"/>
+
+
+
+
+
+    </Grid>
+</Window>

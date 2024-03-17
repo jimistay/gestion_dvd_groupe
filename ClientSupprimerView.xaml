@@ -1,0 +1,26 @@
+﻿<Page x:Class="Location_DVD.ClientSupprimerView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Location_DVD"
+      mc:Ignorable="d" 
+      d:DesignHeight="330" d:DesignWidth="650"
+      Title="Supprimer">
+
+    <Grid Background="#FFFCEC5B" Width="650" Height="330">
+        <Image Margin="0,1,0,-95" Source="/fond.png" Stretch="Fill"/>
+        <Label Content="Supprimer un client" Margin="226,2,227,294" FontSize="20" Foreground="White" FontWeight="Bold"></Label>
+        <ListView x:Name="ClientListView" Margin="0,43,0,47" ItemsSource="{Binding ClientList}" HorizontalAlignment="Center" Width="590" Background="#82FCEC5B" BorderBrush="Black" Foreground="Black" MouseDoubleClick="ClientListView_MouseDoubleclick">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Client ID" DisplayMemberBinding="{Binding ClientID}" Width="116"/>
+                    <GridViewColumn Header="Prénom" DisplayMemberBinding="{Binding Firstname}" Width="116" />
+                    <GridViewColumn Header="Nom" DisplayMemberBinding="{Binding Lastname}" Width="116" />
+                    <GridViewColumn Header="Adresse" DisplayMemberBinding="{Binding Adresse}" Width="116" />
+                    <GridViewColumn Header="Téléphone" DisplayMemberBinding="{Binding Phonenumber}" Width="116" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Page>

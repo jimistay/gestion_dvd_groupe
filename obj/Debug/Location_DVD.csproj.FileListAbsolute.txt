@@ -1,0 +1,185 @@
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD.csproj.AssemblyReference.cache
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\MainWindow.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\RetourEnregView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\RetourHomeView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\RetourViews.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\App.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD_MarkupCompile.cache
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD_MarkupCompile.lref
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\Location_DVD.exe.config
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\Location_DVD.exe
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\Location_DVD.pdb
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\Google.Protobuf.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\MySql.Data.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Buffers.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Memory.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\Google.Protobuf.pdb
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\Google.Protobuf.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\MySql.Data.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Buffers.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Memory.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\MainWindow.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\RetourEnregView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\RetourHomeView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\RetourViews.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD.g.resources
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD.Properties.Resources.resources
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD.csproj.GenerateResource.cache
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD.csproj.CoreCompileInputs.cache
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD.csproj.CopyComplete
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD.exe
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Location_DVD.pdb
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Welcome.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\Welcome.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDAffichageView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDAjouterView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDHomeView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDModifiePage2View.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDModifierView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDSupprimerView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDAffichageView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDAjouterView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDHomeView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDModifiePage2View.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDModifierView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDSupprimerView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\DVDView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\delete_location.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\delete_location.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientAjouterView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientAjouterView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientModifierView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientModifierView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientAffichageView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientAffichageView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientSupprimerView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientSupprimerView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationModifierView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationModifierView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationAffichageView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationAffichageView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationAjouterView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationAjouterView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationHomeView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationHomeView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientHomeView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientHomeView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationSupprimerView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationSupprimerView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientModifierDataView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\ClientModifierDataView.baml
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationModifierDataView.g.cs
+C:\Users\Romain\Desktop\dev\cs\Location_DVD\Location_DVD\obj\Debug\LocationModifierDataView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\Location_DVD.exe.config
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\Location_DVD.exe
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\Location_DVD.pdb
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\Google.Protobuf.dll
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\System.Buffers.dll
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\System.Memory.dll
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\MySql.Data.xml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD.csproj.AssemblyReference.cache
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD.csproj.SuggestedBindingRedirects.cache
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientModifierDataView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationModifierDataView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationSupprimerView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationAjouterView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientAffichageView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationAffichageView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientAjouterView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\delete_location.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDAffichageView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDAjouterView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDHomeView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDModifiePage2View.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDModifierView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDSupprimerView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationModifierView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationHomeView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\MainWindow.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientModifierView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientHomeView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourEnregView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourHomeView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourViews.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientSupprimerView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Welcome.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\App.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD_MarkupCompile.cache
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD_MarkupCompile.lref
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientModifierDataView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationModifierDataView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationSupprimerView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationAjouterView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientAffichageView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationAffichageView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientAjouterView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\delete_location.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDAffichageView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDAjouterView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDHomeView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDModifiePage2View.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDModifierView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDSupprimerView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\DVDView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationModifierView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationHomeView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\MainWindow.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientModifierView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientHomeView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourEnregView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourHomeView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourViews.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\ClientSupprimerView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Welcome.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD.g.resources
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD.Properties.Resources.resources
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD.csproj.GenerateResource.cache
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD.csproj.CoreCompileInputs.cache
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD.csproj.CopyComplete
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD.exe
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\Location_DVD.pdb
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourAfficherView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourModifierDataView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourModifierView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourSupprimerView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourAfficherView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourModifierDataView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourModifierView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\RetourSupprimerView.baml
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationRechercherView.g.cs
+C:\Users\jasmi\Downloads\Location_DVD-master (2)\Location_DVD-master\obj\Debug\LocationRechercherView.baml
